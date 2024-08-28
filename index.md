@@ -5,6 +5,6 @@ description: Home Page
 hide: true
 ---
 
-# Welcome to the Baking Homepage
+# Welcome to AP Computer Science Principles
 
     
