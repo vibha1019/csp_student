@@ -5,4 +5,6 @@ description: Home Page
 hide: true
 ---
 
-My journey starts here.
+# Welcome to the Baking Homepage
+
+    
