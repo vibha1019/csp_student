@@ -28,5 +28,3 @@ source venv/bin/activate
 ``` 
 
 To solve the issue, I had to properly install Python 3, as I was having some troubles with that. However, by following the steps given in the command output, the problem was fixed.
-
-<style> body { font-family: 'Open Sans', sans-serif; /* Change to a nice font */ } pre { background-color: #b3d9ff; /* Baby blue background */ padding: 15px; border-radius: 5px; font-family: 'Courier New', Courier, monospace; /* Font for code blocks */ font-size: 14px; overflow-x: auto; } </style>
