@@ -6,12 +6,14 @@ github_repo: "vibha_mandayam_2025"
 baseurl: "/vibha_mandayam_2025"
 future: true
 remote_theme: jekyll/minima
+
 minima:
-  skin: dark
+  skin: dark # You can choose from 'dark', 'light', 'solarized', or 'solarized-dark'
   social_links:
-    - { platform: github, user_url: "https://github.com/nighthawkcoders"}
+    - { platform: github, user_url: "https://github.com/nighthawkcoders" }
     - { platform: x, user_url: "https://x.com/NighthawkCoding/" }
     - { platform: youtube, user_url: "https://www.youtube.com/@nighthawkcodingsociety2868" } 
+
 # remote_theme: pages-themes/midnight@v0.2.0
 # remote_theme: pages-themes/cayman@v0.2.0
 # remote_theme: pages-themes/dinky@v0.2.0
@@ -23,5 +25,6 @@ header_pages:
   - navigation/blog.md
   - navigation/search.md
   - navigation/about.md
+  - navigation/tools.md
   - navigation/baking.md
   - README4YML.md
