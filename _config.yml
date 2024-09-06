@@ -8,9 +8,8 @@ future: true
 remote_theme: jekyll/minima
 
 minima:
-  skin: dark # You can choose from 'dark', 'light', 'solarized', or 'solarized-dark'
   social_links:
-    - { platform: github, user_url: "https://github.com/nighthawkcoders" }
+    - { platform: github, user_url: "https://github.com/vibha1019/vibha_mandayam_2025" }
     - { platform: x, user_url: "https://x.com/NighthawkCoding/" }
     - { platform: youtube, user_url: "https://www.youtube.com/@nighthawkcodingsociety2868" } 
 
@@ -26,5 +25,4 @@ header_pages:
   - navigation/search.md
   - navigation/about.md
   - navigation/tools.md
-  - navigation/baking.md
   - README4YML.md
