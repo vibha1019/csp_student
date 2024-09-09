@@ -29,9 +29,20 @@ hide: true
   <p style="color: black;"> Use the links above to navigate to the programming language of your choosing! </p>
 </div>
 
-<!-- 
-## Notebook Submenu
+<p> </p>
+<table style="background-color: #da95f5;">
+    <tr>
+        <td><a href="{{site.baseurl}}/github/pages/planning">Planning Notebook</a></td>
+        <td><a href="{{site.baseurl}}/github/pages/javacell">Java Cell Notebook</a></td>
+    </tr>
+</table>
 
-- [Planning Document](_notebooks/Foundation/planning_document.ipynb)
-   -->
 
+
+<script src="https://utteranc.es/client.js"
+        repo="vibha1019/vibha_mandayam_2025"
+        issue-term="pathname"
+        theme="preferred-color-scheme"
+        crossorigin="anonymous"
+        async>
+</script>
