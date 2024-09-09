@@ -7,9 +7,7 @@ permalink: /about/
 <p style="color: black;"> My name is Vibha Mandayam and I am a sophomore at Del Norte High School. I am interested in computers and can't wait to learn more in this class! </p>
 </div>
 
-<!-- <div style="text-align: center; margin-top: 20px;">
-    <img src="https://docs.google.com/drawings/d/e/2PACX-1vQVRanGxsjYlU_dlZvHuuu_76MLIOqTAGBSSeT4AHFB60ZGs80awgc43acBLcFOZuKv8WLTIsFIq1b-/pub?w=960&amp;h=720" alt="Alt Text" style="border-radius: 10px; max-width: 100%;">
-</div> -->
+
 ## Things About Me
 <div style="background-color: #da95f5; border-radius: 15px; padding: 10px; margin: 10px 0; color: black; font-family: 'Roboto', sans-serif;">
   <p style="color: black;">I love to bake!🧑‍🍳</p>
@@ -97,3 +95,7 @@ Logos are made using Wikipedia images
         container.appendChild(gridItem);
     }
 </script>
+
+<div style="text-align: center; margin-top: 20px;">
+    <img src="https://docs.google.com/drawings/d/e/2PACX-1vQVRanGxsjYlU_dlZvHuuu_76MLIOqTAGBSSeT4AHFB60ZGs80awgc43acBLcFOZuKv8WLTIsFIq1b-/pub?w=960&amp;h=720" alt="Alt Text" style="border-radius: 10px; max-width: 100%;">
+</div>
